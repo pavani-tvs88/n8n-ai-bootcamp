@@ -52,7 +52,6 @@ Parameters:
 - **Tools to Include**: `Selected`
 - Confirm the tools are visible. If not, double check you published your server and pasted the correct URL.
 - See the tools? **Select all**
-http://localhost:5678/mcp/edd5ffc1-e861-4354-85e7-e95ce9195c93
 
 ### 4. Try the connection
 - Ask your AI Agent to retrieve a ticket ID that is available on Github, e.g. `MLFNSMXT`
